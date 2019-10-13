@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/netways-demo-eu/Project%20Custom/_apis/build/status/hasanobeid.pipelines-java?branchName=master)](https://dev.azure.com/netways-demo-eu/Project%20Custom/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
