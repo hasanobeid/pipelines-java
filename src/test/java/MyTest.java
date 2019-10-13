@@ -5,10 +5,15 @@ public class MyTest {
     @Test
     public void test_method_1() {
         Demo d = new Demo();
-        d.DoSomething(false);
+        d.DoSomething(true);
     }
 
     @Test
     public void test_method_2() {
+    }
+    
+    @Test
+    public void test_method_3() {
+        throw new MyRuntimeException(new IllegalStateException("Illegal state"));
     }
 }
