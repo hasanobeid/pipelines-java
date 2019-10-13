@@ -14,6 +14,6 @@ public class MyTest {
     
     @Test
     public void test_method_3() {
-        throw new MyRuntimeException(new IllegalStateException("Illegal state"));
+        fail("Exception not thrown");
     }
 }
