@@ -13,7 +13,7 @@ public class MyTest {
     }
     
     @Test
-    public void test_method_4() {
+    public void test_method_5() {
         throw new RuntimeException(); 
     }
 }
