@@ -14,6 +14,6 @@ public class MyTest {
     
     @Test
     public void test_method_3() {
-        fail("Exception not thrown");
+        throw new RuntimeException();
     }
 }
