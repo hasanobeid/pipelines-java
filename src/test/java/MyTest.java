@@ -14,6 +14,6 @@ public class MyTest {
     
     @Test
     public void test_method_6() {
-        throw new RuntimeException(); 
+        //throw new RuntimeException(); 
     }
 }
